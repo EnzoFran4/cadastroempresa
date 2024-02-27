@@ -37,7 +37,7 @@
             Cadastro.Name = "Cadastro";
             Cadastro.Size = new Size(276, 128);
             Cadastro.TabIndex = 0;
-            Cadastro.Text = "Cadastro";
+            Cadastro.Text = "Cadastro Empresa";
             Cadastro.UseVisualStyleBackColor = true;
             Cadastro.Click += Cadastro_Click;
             // 
